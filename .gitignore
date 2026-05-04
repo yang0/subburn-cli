@@ -1,0 +1,4 @@
+node_modules/
+test/output*.mp4
+test/.subburn-fonts/
+npm-debug.log*

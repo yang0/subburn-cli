@@ -1,0 +1,25 @@
+{
+  "name": "subburn-cli",
+  "version": "1.0.0",
+  "description": "一个CLI工具，将字幕以黄色字体烧录到视频上",
+  "main": "src/index.js",
+  "bin": {
+    "subburn": "./bin/subburn.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "subtitle",
+    "video",
+    "burn",
+    "cli",
+    "ffmpeg"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
